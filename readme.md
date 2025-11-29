@@ -22,7 +22,7 @@ gauss-elimination-c/
 ├── src/
 │   └── gauss_elimination.c
 ├── docs/
-│   └── Case_Study_Report.docx
+│   └── Case_Study_Report.pdf
 └── README.md
 ```
 
